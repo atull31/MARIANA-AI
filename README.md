@@ -2,7 +2,6 @@
 
 > **An intelligent, agentic research assistant** that explores any topic in depth — blending AI reasoning with a serene deep-sea interface.
 
-![Mariana AI Banner](https://images.pexels.com/photos/37530/diver-underwater-ocean-deep-37530.jpeg?auto=compress&cs=tinysrgb&w=1920)
 
 ---
 
