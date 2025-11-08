@@ -39,7 +39,22 @@ You enter a topic, and Mariana autonomously generates subtopics, explores each, 
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/yourusername/mariana-ai.git
 cd mariana-ai
+```
+### Install dependencies
+
+```bash
+pip install requirements.txt
+```
+### 🛠️ Configuration
+use your api key in .env variable:
+OPENAI_API_KEY = "your-api-key"
+
+###  Run 
+```bash
+python app.py
+```
+“Like the Mariana Trench, true research dives deep.”
